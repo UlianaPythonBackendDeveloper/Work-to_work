@@ -1,0 +1,9 @@
+Resolved 1 package in 13ms
+  × Failed to build `hexlet-code @ file:///home/uliana/python-project-50`
+  ├─▶ Failed to resolve requirements from `build-system.requires`
+  ├─▶ No solution found when resolving: `hatchling`
+  ├─▶ Request failed after 3 retries in 50.4s
+  ├─▶ Failed to fetch: `https://pypi.org/simple/hatchling/`
+  ├─▶ error sending request for url (https://pypi.org/simple/hatchling/)
+  ├─▶ client error (Connect)
+  ╰─▶ operation timed out
